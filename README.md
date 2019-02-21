@@ -10,7 +10,7 @@ This repository includes 4 files:
 4. media.py - This contains the creation of the Class - Movie to store movie information.
 
 ## Running the project
-Option 1 - Download the zipfile, unzip and open with a text editor
-Option 2 - Clown the repository and open with a text editor.
+Option 1 - Download the zipfile, unzip and open with a text editor <br>
+Option 2 - Clone the repository and open with a text editor.
 
 
